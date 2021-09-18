@@ -147,7 +147,6 @@ koala.climb();
 
 businessman.sell();
 
-
 //  action 2: buy
 businessman.buy();
 
