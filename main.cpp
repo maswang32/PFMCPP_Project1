@@ -92,13 +92,13 @@ student.sleep();
 student.procrastinate();
 
 //  5) 
-//  Noun: camel
-//  action 1:  drink water
-camel.drinkWater();
-//  action 2: drink milk
-camel.drinkMilk();
-//  action 3: walk
-camel.walk();
+//  Noun: camelRider
+//  action 1:  mountCamel
+camelRider.mountCamel();
+//  action 2: drink water
+camelRider.drinkWater();
+//  action 3: sellCamel
+camelRider.sellCamel();
 
 //  6) 
 //  Noun: robber
