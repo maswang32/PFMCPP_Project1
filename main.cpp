@@ -61,7 +61,7 @@ vendingMachine.dispenseSoda();
 vendingMachine.dispenseWater();
 
 //  action 3: sound alarm
- vendingMachine.soundAlarm();
+vendingMachine.soundAlarm();
 
 //  2)
 //  Noun: Rock Paper Scissors Player
@@ -92,13 +92,13 @@ student.sleep();
 student.procrastinate();
 
 //  5) 
-//  Noun: cow
-//  action 1:  eat grass
-cow.eatGrass();
-//  action 2: eat grain
-cow.eatHay();
-//  action 3: die
-cow.die();
+//  Noun: camel
+//  action 1:  drink water
+camel.drinkWater();
+//  action 2: drink milk
+camel.drinkMilk();
+//  action 3: walk
+camel.walk();
 
 //  6) 
 //  Noun: robber
