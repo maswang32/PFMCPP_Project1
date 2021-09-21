@@ -52,85 +52,98 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: vending machine
+//  action 1: dispense soda
+vendingMachine.dispenseSoda();
 
-//  action 2:
 
-//  action 3:
- 
+//  action 2: dispense water
+vendingMachine.dispenseWater();
+
+//  action 3: sound alarm
+ vendingMachine.soundAlarm();
+
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Rock Paper Scissors Player
+//  action 1: player plays rock
+player.playRock();
+//  action 2: player plays scissors
+player.playScissors();
 
-//  action 2:
+//  action 3: player plays paper
+player.playPaper(); 
 
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: kickBoxer
+//  action 1: kick
+kickBoxer.kick();
+//  action 2: box
+kickBoxer.box();
+//  action 3: hadouken
+kickBoxer.hadouken();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: student
+//  action 1: complete assignment
+student.completeAssignment();
+//  action 2: sleep
+student.sleep();
+//  action 3: procrastinate
+student.procrastinate();
 
-//  action 2:
+//  5) 
+//  Noun: cow
+//  action 1:  eat grass
+cow.eatGrass();
+//  action 2: eat grain
+cow.eatHay();
+//  action 3: die
+cow.die();
 
-//  action 3:
- 
-//  5)
-//  Noun:
-//  action 1:
+//  6) 
+//  Noun: robber
+//  action 1: threaten
+robber.threaten();
+//  action 2: run away
+robber.runAway();
+//  action 3: stab
+robber.stab();
 
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: fireman
+//  action 1: spray water
+fireman.spray();
+//  action 2: call for backup
+fireman.callForBackup();
+//  action 3: run away
+fireman.runAway();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Koala
+//  action 1: sleep
+koala.sleep();
+//  action 2: eat Eucalytpus Leaves
+koala.eatLeaves();
+//  action 3: climb 
+koala.climb();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: businessman
+//  action 1: sell
+businessman.sell();
+//  action 2: buy
+businessman.buy();
+//  action 3: fire
+businessman.fire();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: employee
+//  action 1: work
+employee.work();
+//  action 2: takebreak
+employee.takeBreak();
+//  action 3: quit
+employee.quit();
 
 
 #endif
